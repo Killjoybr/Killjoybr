@@ -12,8 +12,6 @@
 
 ✒️ Eu gosto de no meu tempo livre ouvir um bom rap e jogar video-game
 
-📚 Lendo: [Livro que está lendo atualmente]
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
