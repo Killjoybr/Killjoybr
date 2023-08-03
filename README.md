@@ -6,7 +6,7 @@
 
 🎓 Eu estudo [Engenharia da Computação](https://en.wikipedia.org/wiki/Computer_engineering) @[CEUB](https://www.uniceub.br/) e [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @[Cubos Academy](https://cubos.academy/)
 
-👩‍💻 Atualmente eu procuro meu primeiro emprego como Desenvolvedor Junior
+👩‍💻 Focado em Node.JS Python e Flutter 
 
 🔎 Também sou curioso sobre psicologia, música e ciências no geral
 
