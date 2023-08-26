@@ -12,7 +12,7 @@
 
 ✒️ Eu gosto de no meu tempo livre ouvir um bom rap e jogar video-game
 
-📚 Lendo: [Dispositivos Eletrônicos e teoria de circuitos](https://www.amazon.com.br/Dispositivos-eletrônicos-teoria-dos-circuitos/dp/8564574217) [Padrões JavaScript](https://www.amazon.com.br/Padrões-Javascript-Stoyan-Stefanov/dp/857522266X) [Algoritmos e Lógica de Programação](https://www.amazon.com.br/Algoritmos-Lógica-Programação-Marco-Furlan/dp/8522128146/ref=sr_1_1) [Segurança da Informação](https://www.amazon.com.br/Segurança-Informação-Edison-Fontes/dp/8502054422)
+📚 Lendo: [Dispositivos Eletrônicos e teoria de circuitos](https://www.amazon.com.br/Dispositivos-eletrônicos-teoria-dos-circuitos/dp/8564574217), [Padrões JavaScript](https://www.amazon.com.br/Padrões-Javascript-Stoyan-Stefanov/dp/857522266X), [Algoritmos e Lógica de Programação](https://www.amazon.com.br/Algoritmos-Lógica-Programação-Marco-Furlan/dp/8522128146/ref=sr_1_1) e [Segurança da Informação](https://www.amazon.com.br/Segurança-Informação-Edison-Fontes/dp/8502054422)
 
 ### Eu já trabalhei com... 🔧
 
