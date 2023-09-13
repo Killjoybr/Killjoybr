@@ -12,7 +12,7 @@
 
 🔎 I'm curious about psychology, music and science.
 
-✒️ Eu gosto de no meu tempo livre ouvir um bom rap e jogar video-game
+✒️ On my free time I like to listen to rap and play video-games
 
 📚 Reading: [Segurança da Informação](https://www.amazon.com.br/Segurança-Informação-Edison-Fontes/dp/8502054422)
 
