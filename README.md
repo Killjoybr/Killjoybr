@@ -14,7 +14,7 @@
 
 ✒️ On my free time I like to listen to rap and play video-games
 
-📚 Reading: [Segurança da Informação](https://www.amazon.com.br/Segurança-Informação-Edison-Fontes/dp/8502054422)
+📚 Reading: Hmmm... nothing to see here, would you recommend me some? 
 
 ### I've already worked with... 🔧
 
