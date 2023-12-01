@@ -6,15 +6,15 @@
 
 💻 I'm a Computer Engineer with a Back-End development background
 
-🎓 I study [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) @[CEUB](https://www.uniceub.br/) and [Back-End software development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @[Cubos Academy](https://cubos.academy/)
+🎓 I study [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) @[CEUB](https://www.uniceub.br/).
 
-👩‍💻 Focused on Javascript, Python and Flutter 
+👩‍💻 Focused on server-side solutions 
 
 🔎 I'm curious about psychology, music and science.
 
 ✒️ On my free time I like to listen to rap and play video-games
 
-📚 Reading: Hmmm... nothing to see here, would you recommend me some? 
+📚 Reading: [How to Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/#preface-who-is-this-book-for) by [QuincyLarson](https://github.com/QuincyLarson)
 
 ### I've already worked with... 🔧
 
@@ -34,7 +34,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### Sharpening my skills... 🧩
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,7 +41,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 ### GitHub Stats ⚡
 <div>
