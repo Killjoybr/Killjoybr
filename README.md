@@ -42,9 +42,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### GitHub Stats ⚡
+### GitHub Stats by @anuraghazra ⚡
 <div>
-<a href="https://github.com/killjoybr">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killjoybr&layout=compact&langs_count=7&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=killjoybr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
