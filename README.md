@@ -38,7 +38,8 @@
 
 ### Sharpening my skills... 🧩
 ![C#](https://img.shields.io/badge/csharp-189F1F.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C#](https://img.shields.io/badge/dotnet-5049D4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNet](https://img.shields.io/badge/dotnet-5049D4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### GitHub Stats by @anuraghazra ⚡
 <div>
@@ -48,15 +49,10 @@
 </div>
 
 ### Contact 📭
-<div>
-<a href="https://www.youtube.com/@killjoybr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/killjoybr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/killj0ybr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ruandavid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+🌐 Feel free to hit me up on any socials I provide on my [website](https://killjoybr.com.br).
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{killjoybr}/count.svg" /></p> 
 <br>
 </div>
