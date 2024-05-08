@@ -14,8 +14,7 @@
 
 ✒️ On my free time I like to listen to rap and play video-games
 
-📚 Reading: Indexing and abstracting in theory and practice by F.W.Lancaster
-
+📚 Reading: Nothing for now
 ### I've already worked with... 🔧
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
