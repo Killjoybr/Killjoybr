@@ -18,7 +18,6 @@
 ### I've already worked with... 🔧
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)<br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,8 +35,7 @@
 
 
 ### Sharpening my skills... 🧩
-![C#](https://img.shields.io/badge/csharp-189F1F.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/dotnet-5049D4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### GitHub Stats by @anuraghazra ⚡
