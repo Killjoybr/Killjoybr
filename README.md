@@ -43,7 +43,7 @@
 </div>
 
 ### Contact 📭
-🌐 Feel free to hit me up on any socials I provide on my [website](https://killjoybr.com.br).
+🌐 Feel free to hit me up on any socials I provide on my [website](https://www.killjoybr.com.br).
 
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
