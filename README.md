@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ruan+Silva;I'm+22+years+old;I'm+Brazilian;I'm+a+Computer+Engineer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ruan+Silva;I'm+23+years+old;I'm+Brazilian;I'm+a+Computer+Engineer;Welcome!+:%29)](https://git.io/typing-svg)
 
 ### About me... 👨🏽‍🎓
 
@@ -14,7 +14,7 @@
 
 ✒️ On my free time I like to listen to rap and play video-games
 
-📚 Reading: Nothing for now
+📚 Reading: [Python for Data Analysys](https://wesmckinney.com/book/)
 ### I've already worked with... 🔧
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
