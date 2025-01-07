@@ -18,7 +18,6 @@
 <div align="center">
   <h3> Sharpening my skills 🧩 </h3>
   <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/VIM-%23000000?style=for-the-badge&logo=vim&logoColor=green">
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
