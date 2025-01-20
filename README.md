@@ -36,15 +36,6 @@
 <hr>
 
 <div align="center">
-  <h3> GitHub Stats by @anuraghazra ⚡ </h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=killjoybr&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide=issues"/>
-  </a>
-</div>
-
-<hr>
-
-<div align="center">
 <br><p><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{killjoybr}/count.svg" /></p> 
 <br>
