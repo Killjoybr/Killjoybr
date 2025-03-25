@@ -19,6 +19,8 @@
   <h3> Sharpening my skills 🧩 </h3>
   <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/NVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 <hr>
