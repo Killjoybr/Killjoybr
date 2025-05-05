@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/NVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/APACHE-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=orange">
 </div>
 
 <hr>
