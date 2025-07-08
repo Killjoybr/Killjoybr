@@ -40,7 +40,7 @@
 
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{killjoybr}/count.svg" /></p> 
+<p align="center"><img align="center" alt="Erro inesperado, aqui era um contador de visitantes" src="https://profile-counter.glitch.me/{killjoybr}/count.svg" /></p> 
 <br>
 </div>
 
