@@ -38,10 +38,12 @@
 
 <hr>
 
+<!-- TODO: Find another counter or self host previous solution
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
 <p align="center"><img align="center" alt="Erro inesperado, aqui era um contador de visitantes" src="https://profile-counter.glitch.me/{killjoybr}/count.svg" /></p> 
 <br>
 </div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
