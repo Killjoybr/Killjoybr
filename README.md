@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ruan+Silva;I'm+23+years+old;I'm+Brazilian;I'm+a+Computer+Engineer;Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Studying for AWS Certified Developer - Associate</p>
 <hr>
 
 <div align="center">
@@ -26,6 +25,7 @@
 
 <div align="center">
   <h3> Sharpening my skills 🧩 </h3>
+  <img src="https://img.shields.io/badge/Selenium-%23FFFFFF.svg?style=for-the-badge&logo=selenium&logoColor=43B02A">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%236CB52D.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/QGIS-%23FFFFFF?style=for-the-badge&logo=qgis&logoColor=84a927">
