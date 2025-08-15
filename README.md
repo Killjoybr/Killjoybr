@@ -8,6 +8,7 @@
   <h3> I've already worked with 🔧 </h3>
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/WxPython-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-%230C4B33.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/APACHE-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=orange">
   <br>
@@ -15,6 +16,7 @@
   <br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -26,7 +28,7 @@
 <div align="center">
   <h3> Sharpening my skills 🧩 </h3>
   <img src="https://img.shields.io/badge/Selenium-%23FFFFFF.svg?style=for-the-badge&logo=selenium&logoColor=43B02A">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/WxPython-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%236CB52D.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/QGIS-%23FFFFFF?style=for-the-badge&logo=qgis&logoColor=84a927">
 </div>
