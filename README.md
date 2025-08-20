@@ -8,11 +8,11 @@
   <h3> I've already worked with 🔧 </h3>
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/APACHE-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=orange">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-%230C4B33.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/APACHE-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=orange">
   <br>
-  <img src="https://img.shields.io/badge/Analytics-%23FFFFFF.svg?style=for-the-badge&logo=googleanalytics&logoColor=orange">
+  <img src="https://img.shields.io/badge/Google--Analytics-%23FFFFFF.svg?style=for-the-badge&logo=googleanalytics&logoColor=orange">
   <br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
