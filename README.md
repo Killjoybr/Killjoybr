@@ -27,10 +27,7 @@
 
 <div align="center">
   <h3> Sharpening my skills 🧩 </h3>
-  <img src="https://img.shields.io/badge/Selenium-%23FFFFFF.svg?style=for-the-badge&logo=selenium&logoColor=43B02A">
-  <img src="https://img.shields.io/badge/WxPython-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%236CB52D.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-%23FFFFFF?style=for-the-badge&logo=qgis&logoColor=84a927">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <hr>
