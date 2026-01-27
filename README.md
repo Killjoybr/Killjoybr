@@ -29,6 +29,7 @@
   <h3> Sharpening my skills 🧩 </h3>
   <img src="https://img.shields.io/badge/Arch%20Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-%23FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=red">
 </div>
 
 <hr>
