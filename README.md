@@ -1,41 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ruan+Silva;I'm+24+years+old;I'm+Brazilian;I'm+a+Computer+Engineer;Welcome!+:%29)](https://git.io/typing-svg)
-
-<hr>
-
 <div align="center">
-  <h3> I've already worked with 🔧 </h3>
-  <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/APACHE-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=orange">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-%230C4B33.svg?style=for-the-badge&logo=django&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Google--Analytics-%23FFFFFF.svg?style=for-the-badge&logo=googleanalytics&logoColor=orange">
-  <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://github.com/Killjoybr/galaxy-readme-svg-generator/blob/main/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header">
 </div>
 
 <hr>
 
 <div align="center">
-  <h3> Sharpening my skills 🧩 </h3>
-  <img src="https://img.shields.io/badge/Arch%20Linux-%23FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-%23FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=red">
+  <img src="https://github.com/Killjoybr/galaxy-readme-svg-generator/blob/main/assets/generated/stats-card.svg" width="850" alt="Telemetry">
 </div>
 
 <hr>
 
 <div align="center">
-  <h3> Certifications </h3>
+  <img src="https://github.com/Killjoybr/galaxy-readme-svg-generator/blob/main/assets/generated/tech-stack.svg" width="850" alt="Telemetry">
+</div>
+
+<hr>
+
+<div align="center">
   <a href="https://www.credly.com/badges/4f2aa7f7-022a-4dbb-9cfb-bb32c0e10b21/public_url">
     <img height=200 width=200 src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
   </a>
@@ -46,4 +27,6 @@
 
 <hr>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
+<div align="center">
+  <img src="https://github.com/Killjoybr/galaxy-readme-svg-generator/blob/main/assets/generated/projects-constellation.svg" width="850" alt="Telemetry">
+</div>
