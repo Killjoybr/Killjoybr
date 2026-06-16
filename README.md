@@ -25,9 +25,3 @@
     <img height=200 width=200 src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
   </a>
 </div>
-
-<hr>
-
-<div align="center">
-  <img src="https://github.com/Killjoybr/galaxy-readme-svg-generator/blob/main/assets/generated/projects-constellation.svg" width="850" alt="Telemetry">
-</div>
